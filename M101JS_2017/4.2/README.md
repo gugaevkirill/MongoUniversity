@@ -1,0 +1,3 @@
+Answer is:  
+- **The query uses an index to determine the order in which to return result documents.**
+- **The query examines 251120 documents.**

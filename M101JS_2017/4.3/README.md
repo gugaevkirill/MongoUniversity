@@ -1,0 +1,2 @@
+Answer is:  
+- **Can make atomic updates as books are checked out or turned in.**
